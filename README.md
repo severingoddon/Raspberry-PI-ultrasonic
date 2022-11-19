@@ -1,5 +1,3 @@
-<h1>Raspberry PI projects </h1>
+<h1>Raspberry PI ultrasonic module </h1>
 
-This repository contains multiple small raspberry pi projects like reading sensor data or showing numbers on small screens
-
-RPI Package always needs to be installed.
+This project contains all necessary code to access the HC-SR05 ultrasonic sensor data.
